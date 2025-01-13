@@ -1,1 +1,1 @@
-# Vy-et-ov-n-gamebook
+# Vysetrovani-gamebook
