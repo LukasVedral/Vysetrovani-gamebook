@@ -1,4 +1,6 @@
 # Vysetrovani-gamebook    
+[link](https://lukasvedral.github.io/Vysetrovani-gamebook/)
+
 
 <!DOCTYPE html>
 <html lang="en">
@@ -33,5 +35,8 @@
 
         </div>
     </div>
+<<<<<<< HEAD
 </body>
 </html>
+=======
+>>>>>>> 36223ae61e01ae40c6ecac6e5fc426326c26fcbf
